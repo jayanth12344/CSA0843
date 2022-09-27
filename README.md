@@ -17,5 +17,5 @@
 16. SUM OF SQUARES
 17. VOWELS
 18. DAILY SHARES
-19. water container
-20. add two binary numbers
+19. WATER CONTAINER
+20. ADD TWO BINARY NUMBERS
